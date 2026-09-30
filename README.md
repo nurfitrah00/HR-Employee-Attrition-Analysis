@@ -1,6 +1,6 @@
 # HR-Employee-Attrition-Analysis
 
-Data Dictionary
+## Data Dictionary
 
 | Column           | Description                      | Type         |
 | ---------------- | -------------------------------- | ------------ |
